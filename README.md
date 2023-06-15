@@ -1,4 +1,4 @@
-## Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing
+# Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing
 This repository is the PyTorch implementation of the paper in CVPR 2022
 
 <div align="center">
